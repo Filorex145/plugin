@@ -1,0 +1,12 @@
+command /spawn:
+	trigger:
+		teleport player to {spawn}
+
+command /setspawn:
+	permission: op
+	permission message: XD
+	trigger:
+		set {spawn} to location of player
+
+on join:
+	teleport player to {spawn}

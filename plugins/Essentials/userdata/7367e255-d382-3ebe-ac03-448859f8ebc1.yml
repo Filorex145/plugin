@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.49.72.117
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1659291437499
+  login: 1659291227451
+money: '0'
+last-account-name: NeroGaming3628
+logoutlocation:
+  world: 07c819dd-f760-4061-a395-a8955ac6c611
+  world-name: world
+  x: -506.69999998807907
+  y: 1.0
+  z: -918.4718905918423
+  yaw: -16.3411865234375
+  pitch: 34.35028076171875
+lastlocation:
+  world: 07c819dd-f760-4061-a395-a8955ac6c611
+  world-name: world
+  x: -504.30000001192093
+  y: 1.0
+  z: -917.8893249336472
+  yaw: 3.3054637908935547
+  pitch: 30.900012969970703

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.161.36.79
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1659295191067
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1659354102844
+  login: 1659353983648
+money: '37120031.0'
+last-account-name: zieman
+lastlocation:
+  world: 07c819dd-f760-4061-a395-a8955ac6c611
+  world-name: world
+  x: -505.30000001192093
+  y: 7.200000047683717
+  z: -917.3000000119209
+  yaw: -151.19061279296875
+  pitch: 78.30009460449219
+logoutlocation:
+  world: 07c819dd-f760-4061-a395-a8955ac6c611
+  world-name: world
+  x: -1421.1065763694085
+  y: 185.109075380693
+  z: -35.830878759137335
+  yaw: 169.38702392578125
+  pitch: 49.79973602294922
